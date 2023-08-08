@@ -4,7 +4,7 @@
  * this simulator will show how the memory brought to RAM from Disk/Swap , and how the memory move to the swap.\n
  * pay attention that this simulator is not save changes , the update files will move between swap and the RAM till the program finishes.\n
 
-@author Itamar Brina, 208560920*/
+@author Itamar Brina*/
 
 #ifndef EX5_SIM_MEM_H
 #define EX5_SIM_MEM_H
